@@ -35,7 +35,7 @@ export default function App() {
   return (
     <div className="App">
        <div class="top">
-      <h1>The Emoji guessing game</h1>
+      <h1>This is the Emoji guessing game</h1>
       <h2>
         Learn the meaning of some of the lesser known emojis and find out what
         they mean!
